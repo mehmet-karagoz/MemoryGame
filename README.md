@@ -31,8 +31,6 @@ You can play the game as you wish by changing the letters on the game board your
 
 Have a nice game :)
 
-If you run into a problem, you can let me know here or on my Twitter account.
+If you run into a problem, you can let me know here or on my Twitter account. - @Mehmetkaragoz07 - karagoz.mhmtg@gmail.com
 
-Mehmet Karagoz - [@Mehmetkaragoz07](https://twitter.com/Mehmetkaragoz07)
-
-[https://github.com/mehmet-karagoz](https://github.com/mehmet-karagoz)
+https://github.com/mehmet-karagoz
