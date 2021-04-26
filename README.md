@@ -29,7 +29,7 @@ Then you can continue playing the game again where you left off.
 
 You can play the game as you wish by changing the letters on the game board yourself.
 
-Have a nice game :)
+Have a nice game. :)
 
 If you run into a problem, you can let me know here or on my Twitter account. - @Mehmetkaragoz07 - karagoz.mhmtg@gmail.com
 
